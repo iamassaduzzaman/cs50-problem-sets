@@ -1,0 +1,6 @@
+This is zero problem set of CS50
+
+I've tried to build a game called can't catch me. To play this game visit the 
+link below.
+
+https://scratch.mit.edu/projects/793774248/
